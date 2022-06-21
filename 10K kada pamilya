@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <style>
+        button{
+            text-align: center;
+             margin-top: 500px;
+              color: rgb(180, 0, 0);
+              padding: 30px; border-radius: 3cm;
+               font-size: 20px; align-items: center;
+                font-family:fantasy ;
+                 background-color: rgb(22, 18, 24);
+                  border-color: rgb(255, 0, 0);
+                   transition-duration: 0.5s;
+                margin-left: 123%;
+                margin-top: 50%;
+                font-size: 190%;
+            width: 10cm;}
+        button:hover {
+                        background-color: rgb(180, 0, 0);
+                        color: black;
+                        border-color: black;}
+                        
+         body { background-image: url('https://static.wikia.nocookie.net/4692d528-5498-4531-8b3c-2ce715a76802');
+         background-repeat:no-repeat; background-size: 290%;}
+         html {
+        position:relative;
+        max-width: 1024px;
+        max-height: 1080px;
+        height: 100%;}
+    </style>
+    
+<center>
+<button type="button" onclick="location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Here</button>
+</center>
+</body>
+</html>
